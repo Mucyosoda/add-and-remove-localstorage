@@ -1,61 +1,31 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+Awesome Books
 
-> One paragraph statement about the project.
-
+> This  project is designed to add and remove Books added to the local storage .
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
+- Books are being added in order
+- Books are also being removed respectively
+- All the books are being stored in the local storage unless when it is removed.
+
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- github
+- Javascript
+- html
+- Css
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Mucyo claude**
 
 ## 🤝 Contributing
+## Tufoin Nkuo
+## Marc Raphael
 
 Contributions, issues, and feature requests are welcome!
 
@@ -67,10 +37,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- We thank microverse for the opportunity to work on this project
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
