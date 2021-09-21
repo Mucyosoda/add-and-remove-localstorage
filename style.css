@@ -1,15 +1,16 @@
 * {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-	list-style: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
+
 input {
   margin-bottom: 10px;
 }
 
 #container {
-	margin-left: 10px;
+  margin-left: 10px;
 }
 
 #task_wrapper {
@@ -27,8 +28,8 @@ input {
 }
 
 button {
-	padding: 5px;
-	margin-top: 5px;
+  padding: 5px;
+  margin-top: 5px;
 }
 
 .show {
@@ -40,5 +41,5 @@ button {
 }
 
 h1 {
-	margin-left: 10px;
+  margin-left: 10px;
 }

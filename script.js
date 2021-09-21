@@ -103,6 +103,5 @@ const createBook = () => {
   }
 
   init();
-  ath, ttl = null;
 };
 createBook();
