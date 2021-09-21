@@ -1,0 +1,35 @@
+body {
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+#container {
+  align-items: center;
+  align-content: center;
+}
+
+#task_wrapper {
+  margin-left: 10px;
+  list-style: none;
+}
+
+#task_wrapper li {
+  padding-bottom: 5px;
+  font-weight: 900;
+}
+
+.clickeable {
+  cursor: pointer;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
