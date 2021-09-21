@@ -1,15 +1,15 @@
-body {
-  padding-left: 500px;
-  padding-right: 500px;
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
-
 input {
   margin-bottom: 10px;
 }
 
 #container {
-  align-items: center;
-  align-content: center;
+	margin-left: 10px;
 }
 
 #task_wrapper {
@@ -26,10 +26,19 @@ input {
   cursor: pointer;
 }
 
+button {
+	padding: 5px;
+	margin-top: 5px;
+}
+
 .show {
   display: block;
 }
 
 .hide {
   display: none;
+}
+
+h1 {
+	margin-left: 10px;
 }
